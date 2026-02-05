@@ -4,6 +4,8 @@
         Update {{ $this->movie->name }}
     </h1>
 
+    <livewire:child wire:model="name" />
+
     {{-- Actions --}}
     <div class="mt-6 pt-3 border-t border-gray-300 w-full flex flex-row items-center justify-end">
         <button wire:click="deleteMovie"
