@@ -2,6 +2,8 @@
 
 This repository reproduces [this issue](https://github.com/livewire/livewire/discussions/9804#discussioncomment-15682052).
 
+    The issue has been fixed in version 4.1.3! Thanks! 🎉
+
 ## Setup
 
 Set this up like any other laravel project.
